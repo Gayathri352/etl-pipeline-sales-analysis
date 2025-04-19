@@ -57,5 +57,7 @@ etl-pipeline-sales-analysis/
 ## Contact
 
 **Sai Gayathri Makineni**  
-Graduate Student, Computer Science – University of North Texas  
- 
+Graduate Student – M.S. Computer Science  
+University of North Texas  
+Email: saigayathri18@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sai-gayathri-makineni/
