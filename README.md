@@ -1,10 +1,10 @@
-# 📊 ETL Pipeline for Sales Data Analysis
+# ETL Pipeline for Sales Data Analysis
 
 This project showcases an **end-to-end ETL pipeline** built using Python, Apache Airflow, and PostgreSQL to process and analyze daily sales data from multiple sources.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Automated ingestion from CSV files and REST APIs
 - Data transformation and loading into PostgreSQL
@@ -13,7 +13,7 @@ This project showcases an **end-to-end ETL pipeline** built using Python, Apache
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```
 etl-pipeline-sales-analysis/
@@ -27,7 +27,7 @@ etl-pipeline-sales-analysis/
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python, Apache Airflow
 - PostgreSQL
@@ -37,7 +37,7 @@ etl-pipeline-sales-analysis/
 
 ---
 
-## 📈 Outcome
+## Outcome
 
 - Automated daily ETL processing
 - Real-time data validation
@@ -45,7 +45,7 @@ etl-pipeline-sales-analysis/
 
 ---
 
-## 🏁 How to Run (Locally Simulated)
+## How to Run (Locally Simulated)
 
 1. Place sample sales CSVs in the `/data` folder
 2. Configure and start Airflow scheduler
@@ -54,9 +54,8 @@ etl-pipeline-sales-analysis/
 
 ---
 
-## 📩 Contact
+## Contact
 
 **Sai Gayathri Makineni**  
 Graduate Student, Computer Science – University of North Texas  
-📧 [your email]  
-🌐 [LinkedIn link]
+ 
